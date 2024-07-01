@@ -11,3 +11,5 @@ Includes the following sessions:
 2. [USC CISCO (Intermediate level)](https://github.com/20100215/Power_BI_Workshop_Series/tree/main/Part%202%20(USC%20CISCO)) - June 24 and June 25, 2024
     - Intermediate DAX, Column unpivoting, data normalization, appending and merging queries, column quality checks, custom visuals (box plots), decomposition tree, key influencers
 
+![portfolio-16](https://github.com/20100215/Power_BI_Workshop_Series/assets/84717650/a03918e0-4546-4f9e-9b1f-a073aa732510)
+
